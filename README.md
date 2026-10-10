@@ -197,7 +197,7 @@ footer strong{color:#fff}
   <div class="container nav">
     <a href="#home" class="logo" aria-label="PT Bangun Manunggal Trisno - Beranda">
       <!-- Logo perusahaan (jika gagal dimuat, otomatis tampil teks "BMT") -->
-      <span class="logo-mark"><img src="WhatsApp Image 2026-10-11 at 00.49.47.jpeg" alt="Logo PT Bangun Manunggal Trisno" onerror="this.remove()"><b>BMT</b></span>
+      <span class="logo-mark"><img src="7.jpg" onerror="this.remove()"><b>BMT</b></span>
       <span>PT Bangun Manunggal Trisno</span>
     </a>
     <button class="burger" id="burger" aria-label="Buka menu" aria-expanded="false" aria-controls="menu"><span></span><span></span><span></span></button>
