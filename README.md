@@ -348,7 +348,7 @@ footer strong{color:#fff}
     </div>
     <!-- Ganti nama file di src dengan foto proyek Anda. Tambah/kurangi blok .g-item sesuai kebutuhan. -->
     <div class="gallery reveal">
-      <div class="g-item"><div class="ph">proyek-1.jpg</div><img src="[proyek-1.jpg](https://ibb.co/wFRzvtmh)" alt="Proyek 1" onerror="this.style.display='none'"><div class="overlay">Proyek 1</div></div>
+      <div class="g-item"><div class="ph">proyek-1.jpg</div><img src="https://ibb.co/wFRzvtmh" alt="Proyek 1" onerror="this.style.display='none'"><div class="overlay">Proyek 1</div></div>
       <div class="g-item"><div class="ph">proyek-2.jpg</div><img src="proyek-2.jpg" alt="Proyek 2" onerror="this.style.display='none'"><div class="overlay">Proyek 2</div></div>
       <div class="g-item"><div class="ph">proyek-3.jpg</div><img src="proyek-3.jpg" alt="Proyek 3" onerror="this.style.display='none'"><div class="overlay">Proyek 3</div></div>
       <div class="g-item"><div class="ph">proyek-4.jpg</div><img src="proyek-4.jpg" alt="Proyek 4" onerror="this.style.display='none'"><div class="overlay">Proyek 4</div></div>
